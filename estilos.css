@@ -1,0 +1,82 @@
+#titulo{
+    text-align: center;
+    color: white;
+    
+}
+#btnAnalizar{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 15px;
+    font-size: 15px;
+    color: black;
+    background-color: wheat;
+    border-radius: 8px;
+    border: 2px solid #0016b0;
+    position: relative;
+    left: 220px;
+    
+  }
+#btnAnalizar:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+#btnAnalizarSintactico{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 15px;
+    font-size: 15px;
+    color: black;
+    background-color: wheat;
+    border-radius: 8px;
+    border: 2px solid #0016b0;
+    position: relative;
+    left: 220px;
+}
+#bitacora{
+    position: relative;
+    left: 20px;
+}
+#btnAnalizarSintactico:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+#btnTraducir{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 15px;
+    font-size: 15px;
+    color: black;
+    background-color: wheat;
+    border-radius: 8px;
+    border: 2px solid #0016b0;
+    position: relative;
+    left: 220px;
+}
+#btnTraducir:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+#btnHtml{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 15px;
+    font-size: 15px;
+    color: black;
+    background-color: wheat;
+    border-radius: 8px;
+    border: 2px solid #0016b0;
+    position: relative;
+    left: 220px;
+}
+#btnHtml:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+#area1{
+    float: right;
+    margin-right: 200px;
+}
+body{
+    background-color: lightblue;
+}
+
